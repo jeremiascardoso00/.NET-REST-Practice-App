@@ -1,0 +1,7 @@
+C:\Users\Jeremias\source\repos\GraphicsConsolePractice\GraphicsConsolePractice\bin\Debug\GraphicsConsolePractice.exe.config
+C:\Users\Jeremias\source\repos\GraphicsConsolePractice\GraphicsConsolePractice\bin\Debug\GraphicsConsolePractice.exe
+C:\Users\Jeremias\source\repos\GraphicsConsolePractice\GraphicsConsolePractice\bin\Debug\GraphicsConsolePractice.pdb
+C:\Users\Jeremias\source\repos\GraphicsConsolePractice\GraphicsConsolePractice\obj\Debug\GraphicsConsolePractice.csprojAssemblyReference.cache
+C:\Users\Jeremias\source\repos\GraphicsConsolePractice\GraphicsConsolePractice\obj\Debug\GraphicsConsolePractice.csproj.CoreCompileInputs.cache
+C:\Users\Jeremias\source\repos\GraphicsConsolePractice\GraphicsConsolePractice\obj\Debug\GraphicsConsolePractice.exe
+C:\Users\Jeremias\source\repos\GraphicsConsolePractice\GraphicsConsolePractice\obj\Debug\GraphicsConsolePractice.pdb
